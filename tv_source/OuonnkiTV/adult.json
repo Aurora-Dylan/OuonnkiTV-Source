@@ -1,12 +1,5 @@
 [
   {
-    "id": "黄AVZY",
-    "name": "黄AVZY",
-    "url": "https://www.pgxdy.com/api/json.php",
-    "detailUrl": "https://www.pgxdy.com/api/json.php",
-    "isEnabled": true
-  },
-  {
     "id": "滴滴资源",
     "name": "滴滴资源",
     "url": "https://api.ddapi.cc/api.php/provide/vod",
@@ -14,31 +7,17 @@
     "isEnabled": true
   },
   {
+    "id": "黄AVZY",
+    "name": "黄AVZY",
+    "url": "https://www.pgxdy.com/api/json.php",
+    "detailUrl": "https://www.pgxdy.com/api/json.php",
+    "isEnabled": true
+  },
+  {
     "id": "玉兔资源",
     "name": "玉兔资源",
     "url": "https://apiyutu.com/api.php/provide/vod",
     "detailUrl": "https://apiyutu.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "老色逼",
-    "name": "老色逼",
-    "url": "https://apilsbzy1.com/api.php/provide/vod",
-    "detailUrl": "https://apilsbzy1.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "小鸡资源",
-    "name": "小鸡资源",
-    "url": "https://api.xiaojizy.live/provide/vod",
-    "detailUrl": "https://api.xiaojizy.live/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "色猫资源",
-    "name": "色猫资源",
-    "url": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-    "detailUrl": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -56,6 +35,27 @@
     "isEnabled": true
   },
   {
+    "id": "老色逼",
+    "name": "老色逼",
+    "url": "https://apilsbzy1.com/api.php/provide/vod",
+    "detailUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "色猫资源",
+    "name": "色猫资源",
+    "url": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+    "detailUrl": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "百万资源",
+    "name": "百万资源",
+    "url": "https://api.bwzyz.com/api.php/provide/vod",
+    "detailUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
     "id": "杏吧资源",
     "name": "杏吧资源",
     "url": "https://xingba222.com/api.php/provide/vod",
@@ -70,10 +70,10 @@
     "isEnabled": true
   },
   {
-    "id": "百万资源",
-    "name": "百万资源",
-    "url": "https://api.bwzyz.com/api.php/provide/vod",
-    "detailUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "id": "小鸡资源",
+    "name": "小鸡资源",
+    "url": "https://api.xiaojizy.live/provide/vod",
+    "detailUrl": "https://api.xiaojizy.live/provide/vod",
     "isEnabled": true
   },
   {
@@ -91,6 +91,20 @@
     "isEnabled": true
   },
   {
+    "id": "桃花资源",
+    "name": "桃花资源",
+    "url": "https://thzy1.me/api.php/provide/vod",
+    "detailUrl": "https://thzy1.me/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "番号资源",
+    "name": "番号资源",
+    "url": "http://fhapi9.com/api.php/provide/vod",
+    "detailUrl": "http://fhapi9.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
     "id": "乐播资源",
     "name": "乐播资源",
     "url": "https://lbapi9.com/api.php/provide/vod",
@@ -105,13 +119,6 @@
     "isEnabled": true
   },
   {
-    "id": "桃花资源",
-    "name": "桃花资源",
-    "url": "https://thzy1.me/api.php/provide/vod",
-    "detailUrl": "https://thzy1.me/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
     "id": "黑料资源",
     "name": "黑料资源",
     "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
@@ -119,10 +126,10 @@
     "isEnabled": true
   },
   {
-    "id": "番号资源",
-    "name": "番号资源",
-    "url": "http://fhapi9.com/api.php/provide/vod",
-    "detailUrl": "http://fhapi9.com/api.php/provide/vod",
+    "id": "jkun资源",
+    "name": "jkun资源",
+    "url": "https://jkunzyapi.com/api.php/provide/vod",
+    "detailUrl": "https://jkunzyapi.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -144,13 +151,6 @@
     "name": "森林资源",
     "url": "https://beiyong.slapibf.com/api.php/provide/vod",
     "detailUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "jkun资源",
-    "name": "jkun资源",
-    "url": "https://jkunzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://jkunzyapi.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
