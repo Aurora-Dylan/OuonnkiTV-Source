@@ -1,6 +1,6 @@
 module.exports = {
   proxy: {
-    url: "https://kuayu.hellow.eu.org",
+    url: "https://corsapi.ouonnki.110648.xyz",
     download: true,
     check: true,
   },
