@@ -1,10 +1,10 @@
 {
-  "date": "2026/04/26 06:34",
+  "date": "2026/04/27 06:35",
   "keyword": "斗罗大陆",
   "adultKeyword": "三上悠",
   "useProxy": true,
   "proxyUrl": "https://corsapi.ouonnki.110648.xyz",
-  "duration": "4.5s",
+  "duration": "4.4s",
   "stats": {
     "total": 74,
     "accessible": 0,
@@ -426,9 +426,9 @@
       "useProxy": true
     },
     {
-      "id": "www-yyzywcj-com",
+      "id": "www-yytv4-cc",
       "name": "优优资源",
-      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "api": "https://www.yytv4.cc/api.php/provide/vod",
       "isAdult": true,
       "searchStatus": "failed",
       "searchDuration": null,
